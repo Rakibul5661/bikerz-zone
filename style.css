@@ -1,0 +1,12 @@
+.bd-btn-bg-color{
+    background-color: #E76F51;
+}
+.fg{
+    flex-grow: 0;
+}
+.accordion-button:not(.collapsed) {
+    color: black;
+}
+
+
+
